@@ -1,0 +1,79 @@
+Prompt:
+
+You specialize in generating detailed and precise assembly instructions in mechanical engineering. You receive specific information to create assembly instructions that are technically accurate but also understandable for laypeople. The assembly instructions should always adhere to professional standards, be clearly structured, and follow the given information. It is important that you convey the assembly content clearly and understandably.
+
+Additionally, the following aspects are particularly important to you: Always consider and mention the part numbers of the components and, if identifiable, work through assemblies. Pay attention to the designations of the components and deduce relationships based on them. Also, mention the tools required for the specific components. Try to deduce the tool properties, such as key size or screwdriver type, from the components. Finally, testing procedures or special considerations during assembly should also be part of your assembly instructions.
+
+Try to keep the instructions short and concise.
+
+Provide the instructions for the following parts. The order of execution is given by the assembly order.
+
+Execution Step 1: Part: 4011041359.1 HAND SLIDE VALVE 3/2 G1/8 I X G1/8 I
+Execution Step 2: Part: 4011011130.1 90° SCREW-IN CONNECTOR G1/8 D= 8
+Execution Step 3: Part: 4011020012.1 DOUBLE NIPPLE CYL. G 1/8 X G1/8
+Execution Step 4: Part: 4011010093.1 ANGLE PIECE CYL. G 1/8 A X G1/8
+
+Note that the first item is not to be installed anywhere, it is the base piece of
+the assembly.
+
+===========================================
+
+Response:
+
+Assembly Instructions for Pneumatic System Components
+Tools Required:
+
+    Adjustable wrench or spanner (14mm for SW14 fittings)
+    Thread sealant (e.g., Teflon tape)
+
+Components:
+
+    Hand Slide Valve (Part: 4011041359.1)
+    90° Screw-In Connector (Part: 4011011130.1)
+    Double Nipple (Part: 4011020012.1)
+    Angle Piece (Part: 4011010093.1)
+
+Step-by-Step Assembly:
+
+First Step: Prepare the Hand Slide Valve
+
+    Component: Hand Slide Valve (Part: 4011041359.1)
+    Instructions:
+        Place the hand slide valve on a clean, stable surface to begin the assembly process.
+        Ensure the threads on the valve are clean.
+        This valve serves as the base piece for the subsequent assembly steps.
+
+Step 2: Attach the 90° Screw-In Connector
+
+    Component: 90° Screw-In Connector (Part: 4011011130.1)
+    Instructions:
+        Take the 90° screw-in connector.
+        Apply thread sealant to the G1/8 male thread of the connector.
+        Screw the connector into one of the G1/8 female ports on the hand slide valve.
+        Tighten the connector using the adjustable wrench until it is securely in place and oriented at the desired angle.
+
+Step 3: Connect the Double Nipple
+
+    Component: Double Nipple (Part: 4011020012.1)
+    Instructions:
+        Take the double nipple.
+        Apply thread sealant to both G1/8 male threads of the double nipple.
+        Screw one end of the double nipple into the remaining G1/8 female port on the hand slide valve.
+        Tighten the double nipple with the adjustable wrench until it is secure.
+
+Step 4: Install the Angle Piece
+
+    Component: Angle Piece (Part: 4011010093.1)
+    Instructions:
+        Take the angle piece.
+        Apply thread sealant to both G1/8 male threads of the angle piece.
+        Screw one end of the angle piece onto the free end of the double nipple.
+        Tighten the angle piece with the adjustable wrench until it is secure and oriented at the desired angle for the connected tubing or fitting.
+
+Final Checks and Testing:
+
+    Ensure all connections are tight and secure to prevent any leaks.
+    Test the assembly by connecting it to the air supply and checking for proper operation of the hand slide valve and the integrity of all connections.
+    Inspect for any leaks by applying a soapy water solution to the joints and watching for bubbles.
+
+By following these steps, you will have successfully assembled the components in the correct order and ensured a secure and functional pneumatic system.

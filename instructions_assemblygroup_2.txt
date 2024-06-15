@@ -1,0 +1,120 @@
+Prompt:
+
+You specialize in generating detailed and precise assembly instructions in mechanical engineering. You receive specific information to create assembly instructions that are technically accurate but also understandable for laypeople. The assembly instructions should always adhere to professional standards, be clearly structured, and follow the given information. It is important that you convey the assembly content clearly and understandably.
+
+Additionally, the following aspects are particularly important to you: Always consider and mention the part numbers of the components and, if identifiable, work through assemblies. Pay attention to the designations of the components and deduce relationships based on them. Also, mention the tools required for the specific components. Try to deduce the tool properties, such as key size or screwdriver type, from the components. Finally, testing procedures or special considerations during assembly should also be part of your assembly instructions.
+
+Try to keep the instructions short and concise.
+
+Provide the instructions for the following parts. The order of execution is given by the assembly order.
+
+Execution Step 1: Screw-in connector 90° G1/8 D= 8
+Execution Step 2: 2 Valve VUVG-L14-B52-T-G1/8-1R8L
+Executions Step 3: Screw-in connector 90° G1/8 D= 6
+Executions Step 4: Valve VUVG-L14-M52-MT-G18-1R8L
+Executions Step 5: Screw-in connector 90° G1/8 D= 6
+Executions Step 6: Throttle check valve push-in G1/8 D= 6
+Executions Step 7: Sealing screw DIN 908 G1/8
+Executions Step 8: Screw-in connector 90° G1/8 D= 6
+
+Note that the first item is not to be installed anywhere, it is the base piece of the assembly.
+
+===========================================
+
+Response:
+
+Assembly Instructions for the Pneumatic System
+Components List
+
+    Screw-in Connector 90° G1/8 D= 8 (Base Piece)
+    Valve VUVG-L14-B52-T-G1/8-1R8L
+    Screw-in Connector 90° G1/8 D= 6
+    Valve VUVG-L14-M52-MT-G18-1R8L
+    Throttle Check Valve Push-in G1/8 D= 6
+    Sealing Screw DIN 908 G1/8
+
+Tools Required
+
+    Adjustable Wrench
+    Thread Sealant Tape
+    Torque Wrench
+
+Assembly Instructions
+Step 1: Prepare the Base Piece
+
+    Component: Screw-in Connector 90° G1/8 D= 8 (Base Piece)
+    Instructions:
+        This connector serves as the starting point for the assembly. Ensure it is clean and free of any debris.
+
+Step 2: Install Valve VUVG-L14-B52-T-G1/8-1R8L
+
+    Component: Valve VUVG-L14-B52-T-G1/8-1R8L
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply a small amount of thread sealant tape to the male threads of the valve.
+        Screw the valve into the designated port on the base piece.
+        Use the adjustable wrench to tighten the valve securely.
+
+Step 3: Attach Screw-in Connector 90° G1/8 D= 6
+
+    Component: Screw-in Connector 90° G1/8 D= 6
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply thread sealant tape to the male threads of the screw-in connector.
+        Attach the connector to the output port of the previously installed valve.
+        Tighten with the adjustable wrench.
+
+Step 4: Install Valve VUVG-L14-M52-MT-G18-1R8L
+
+    Component: Valve VUVG-L14-M52-MT-G18-1R8L
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply thread sealant tape to the male threads of the valve.
+        Screw the valve into the output port of the screw-in connector installed in Step 3.
+        Use the adjustable wrench to secure the valve.
+
+Step 5: Attach Another Screw-in Connector 90° G1/8 D= 6
+
+    Component: Screw-in Connector 90° G1/8 D= 6
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply thread sealant tape to the male threads of the screw-in connector.
+        Attach this connector to the output port of the valve installed in Step 4.
+        Tighten with the adjustable wrench.
+
+Step 6: Install Throttle Check Valve Push-in G1/8 D= 6
+
+    Component: Throttle Check Valve Push-in G1/8 D= 6
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply thread sealant tape to the male threads of the throttle check valve.
+        Screw the throttle check valve into the output port of the screw-in connector installed in Step 5.
+        Secure with the adjustable wrench.
+
+Step 7: Insert Sealing Screw DIN 908 G1/8
+
+    Component: Sealing Screw DIN 908 G1/8
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply thread sealant tape to the threads of the sealing screw.
+        Insert the sealing screw into the designated port on the throttle check valve or base piece as required.
+        Tighten securely with the adjustable wrench.
+
+Step 8: Final Screw-in Connector 90° G1/8 D= 6
+
+    Component: Screw-in Connector 90° G1/8 D= 6
+    Tools: Adjustable Wrench, Thread Sealant Tape
+    Instructions:
+        Apply thread sealant tape to the male threads of the screw-in connector.
+        Attach this final connector to the appropriate port, completing the assembly.
+        Tighten with the adjustable wrench.
+
+Final Checks and Testing
+
+    Instructions:
+        Ensure all connections are tight and free from leaks.
+        Perform a pressure test to verify the integrity of the assembly.
+        Check for any air leaks at the connections using soapy water and observing for bubbles.
+        If any leaks are found, re-tighten the connections and re-test.
+
+By following these detailed instructions, you can successfully assemble the pneumatic system. If any issues arise, consult the manufacturer's manual or technical support for assistance.
